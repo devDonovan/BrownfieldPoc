@@ -1,6 +1,6 @@
 [submodule "FlyDubai"]
-    path = FlyDubai
-    url = https://github.com/devDonovan/FlyDubai.git
+	path = FlyDubai
+	url = https://github.com/devDonovan/FlyDubai.git
 [submodule "architecture-samples"]
     path = architecture-samples
     url = https://github.com/devDonovan/architecture-samples.git
