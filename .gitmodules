@@ -1,3 +1,7 @@
 [submodule "FlyDubai"]
 	path = FlyDubai
 	url = https://github.com/devDonovan/FlyDubai.git
+[submodule "architecture-samples"]
+	url = https://github.com/devDonovan/architecture-samples.git
+[submodule "sample-food-truck"]
+	url = https://github.com/devDonovan/sample-food-truck.git
